@@ -8,6 +8,7 @@
 - [코딩도장](https://codingdojang.com/)
 - [백준](https://www.acmicpc.net/workbook/view/459)
 - [Codecademy](https://www.codecademy.com/catalog/language/python)
+- [Project Euler](https://projecteuler.net/archives)
 
 ## 🐥 참가자
 - [xoyeon](https://github.com/xoyeon/Practicing-Python-Examples)<!-- [![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=mudosaa)](https://solved.ac/mudosaa) -->
