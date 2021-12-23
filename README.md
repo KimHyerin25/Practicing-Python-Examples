@@ -11,9 +11,11 @@
 - [Project Euler](https://projecteuler.net/archives)
 
 ## 🐥 참가자
-- [xoyeon](https://github.com/xoyeon/Practicing-Python-Examples)<!-- [![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=mudosaa)](https://solved.ac/mudosaa) -->
-- 참가자
-- 참가자
+|ID|solved.ac|
+|:--:|:---------:|
+|[xoyeon](https://github.com/xoyeon/Practicing-Python-Examples)|[![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=mudosaa)](https://solved.ac/mudosaa)|
+|-|-|
+|-|-|
 
 ## 🐤 예제 연습
 |주차|1|2|3|
@@ -22,3 +24,4 @@
 |2주차(211206~211212)|<STRIKE>기말고사라서|<STRIKE>이번주는|<STRIKE>쉬어갈게요|
 |3주차(211213~211219)|[로또의 최고 순위와 최저 순위](https://programmers.co.kr/learn/courses/30/lessons/77484)|[신규 아이디 추천](https://programmers.co.kr/learn/courses/30/lessons/72410)|[숫자 문자열과 영단어](https://programmers.co.kr/learn/courses/30/lessons/81301)|
 |4주차(211220~211226)|[키패드 누르기](https://programmers.co.kr/learn/courses/30/lessons/67256)|[크레인 인형뽑기 게임](https://programmers.co.kr/learn/courses/30/lessons/64061)|[없는 숫자 더하기](https://programmers.co.kr/learn/courses/30/lessons/86051)|
+|5주차(211227~220102)|프로그래머스는 성급했다|백준 브론즈부터|받아 온다|
