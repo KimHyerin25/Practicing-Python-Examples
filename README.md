@@ -14,8 +14,7 @@
 |ID|solved.ac|
 |:--:|:---------:|
 |[xoyeon](https://github.com/xoyeon/Practicing-Python-Examples)|[![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=mudosaa)](https://solved.ac/mudosaa)|
-|-|-|
-|-|-|
+|KimHyerin25|-|
 
 ## 🐤 예제 연습
 |주차|1|2|3|
@@ -23,4 +22,5 @@
 |1주차(211129~211205)|초보자를 위한|파이썬 300제|[[Click!]](https://github.com/xoyeon/Practicing-Python-Examples/tree/main/%EC%B4%88%EB%B3%B4%EC%9E%90%EB%A5%BC%20%EC%9C%84%ED%95%9C%20%ED%8C%8C%EC%9D%B4%EC%8D%AC%20300%EC%A0%9C)
 |2주차(211206~211212)|<STRIKE>기말고사라서|<STRIKE>이번주는|<STRIKE>쉬어갈게요|
 |3주차(211213~211219)|[로또의 최고 순위와 최저 순위](https://programmers.co.kr/learn/courses/30/lessons/77484)|[신규 아이디 추천](https://programmers.co.kr/learn/courses/30/lessons/72410)|[숫자 문자열과 영단어](https://programmers.co.kr/learn/courses/30/lessons/81301)|
-|4주차(211220~211226)|프로그래머스는 성급했다|백준 브론즈부터|받아 온다|
+|4주차(211220~211226)|백준|
+|5주차(211227~220102)|백준|
