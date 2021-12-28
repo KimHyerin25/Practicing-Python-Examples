@@ -24,6 +24,8 @@ for i in range(1, T+1):
     print(f"Case #{i}: {a} + {b} = {a+b}")
     
 # 10699	 오늘 날짜
+from datetime import date
+print(date.today())
 
 # 7287	 등록
 
